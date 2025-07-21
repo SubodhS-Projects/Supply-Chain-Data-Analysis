@@ -102,7 +102,7 @@ This dashboard brings full visibility into the supply chain process—from suppl
 
 > “A clear supply chain is a controlled supply chain—this dashboard makes it visual.”
 
-![Dashboard Preview](https://github.com/SubodhS-Projects/Product-Data-Analysis/blob/main/Screenshot_Product%20Data%20Analysis%20Dashobard.png?raw=true)
+![Dashboard Preview](https://github.com/SubodhS-Projects/Supply-Chain-Data-Analysis/blob/main/Screenshot_Supply%20Chain%20Data%20Analysis%20Dashboard!.png)
 
 ---
 
