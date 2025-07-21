@@ -78,7 +78,7 @@ Many businesses struggle with supply chain visibility. Delays, overstocking, and
 | **Top Supplier**        | Supplier Z – 45% of inventory |
 | **Shipping Cost**       | ₹609 total cost |
 | **Order Priorities**    | Medium priority is the highest (37%) |
-| **Delivery Time**       | High-priority orders take up to 10 days |
+| **Max Delivery Time**       | High-priority orders take Max up to 10 days |
 | **Shipping Status**     | 11 Delivered, 10 In Transit, 9 Shipped |
 | **Category Orders**     | Home Appliances top the chart with 50% of total orders |
 
