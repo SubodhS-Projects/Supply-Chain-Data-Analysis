@@ -63,7 +63,7 @@ Many businesses struggle with supply chain visibility. Delays, overstocking, and
 
 - **Supplier Inventory Level Analysis** – See total inventory and % share by supplier  
 - **Total Shipping Cost Card** – Shows total shipping cost in INR  
-- **Delivery Lead Time Matrix** – Breaks down lead time by order priority  
+- **Delivery Max Lead Time Matrix** – Breaks down Max lead time by supplier priority  
 - **Order Category Analysis** – Visualizes orders by product category  
 - **Priority Order Analysis** – Donut chart to analyze high, medium, low priorities  
 - **Shipping Status Bar Chart** – Breakdown of delivery status (Delivered, In Transit, Shipped)  
