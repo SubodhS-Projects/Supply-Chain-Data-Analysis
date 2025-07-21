@@ -1,0 +1,31 @@
+Product ID,Product Name,Supplier,Warehouse Location,Inventory Level,Order Quantity,Shipping Status,Order Date,Expected Delivery Date,Actual Delivery Date,Shipping Cost,Sales Price,Category,Order Priority,Lead Time (Days)
+P10008,Headphones H,Supplier Y,WH1,150,100,Delivered,08-10-2024,12-10-2024,12-10-2024,$8,$50,Electronics,Medium,4
+P10012,TV L,Supplier Z,WH2,120,80,Shipped,12-10-2024,18-10-2024,19-10-2024,$50,$700,Electronics,Medium,7
+P10011,Monitor K,Supplier Y,WH1,60,50,In Transit,11-10-2024,16-10-2024,17-10-2024,$35,$300,Electronics,High,6
+P10001,Laptop A,Supplier X,WH1,120,50,Shipped,01-10-2024,05-10-2024,06-10-2024,$30,$1000,Electronics,High,4
+P10005,Wireless Mouse E,Supplier Y,WH1,300,200,In Transit,05-10-2024,08-10-2024,10-10-2024,$5,$25,Accessories,Low,3
+P10006,Keyboard F,Supplier Z,WH2,400,100,Delivered,06-10-2024,12-10-2024,11-10-2024,$7,$40,Accessories,Medium,7
+P10002,Phone B,Supplier Y,WH2,200,150,In Transit,02-10-2024,07-10-2024,08-10-2024,$25,$700,Electronics,Medium,5
+P10029,Gaming Console CC,Supplier Y,WH1,100,80,Delivered,29-10-2024,04-11-2024,05-11-2024,$20,$500,Electronics,Low,6
+P10009,USB Cable I,Supplier Z,WH2,500,300,Shipped,09-10-2024,12-10-2024,13-10-2024,$3,$10,Accessories,Low,2
+P10010,Charger J,Supplier X,WH3,250,100,Delivered,10-10-2024,15-10-2024,14-10-2024,$4,$20,Accessories,Medium,5
+P10003,Tablet C,Supplier Z,WH1,50,30,Delivered,03-10-2024,06-10-2024,05-10-2024,$20,$350,Electronics,Low,3
+P10007,Camera G,Supplier X,WH3,80,60,In Transit,07-10-2024,13-10-2024,14-10-2024,$15,$600,Electronics,High,8
+P10013,Refrigerator M,Supplier X,WH1,30,20,Delivered,13-10-2024,19-10-2024,20-10-2024,$60,$500,Home Appliances,High,10
+P10014,Vacuum Cleaner N,Supplier Y,WH3,180,100,In Transit,14-10-2024,20-10-2024,21-10-2024,$20,$150,Home Appliances,Medium,9
+P10015,Blender O,Supplier Z,WH2,200,150,Shipped,15-10-2024,21-10-2024,22-10-2024,$25,$100,Home Appliances,Low,6
+P10016,Toaster P,Supplier X,WH1,50,30,Delivered,16-10-2024,22-10-2024,23-10-2024,$15,$40,Home Appliances,Low,7
+P10017,Microwave Q,Supplier Y,WH3,70,50,In Transit,17-10-2024,23-10-2024,24-10-2024,$40,$200,Home Appliances,Medium,8
+P10018,Air Purifier R,Supplier Z,WH2,90,70,Delivered,18-10-2024,24-10-2024,25-10-2024,$35,$250,Home Appliances,High,7
+P10019,Iron S,Supplier X,WH1,150,100,Shipped,19-10-2024,25-10-2024,26-10-2024,$20,$60,Home Appliances,Low,6
+P10020,Coffee Maker T,Supplier Y,WH3,100,50,Delivered,20-10-2024,26-10-2024,27-10-2024,$30,$150,Home Appliances,High,7
+P10021,Blender U,Supplier Z,WH2,80,60,In Transit,21-10-2024,27-10-2024,28-10-2024,$20,$80,Home Appliances,Low,6
+P10022,Grill V,Supplier X,WH3,150,100,Delivered,22-10-2024,28-10-2024,29-10-2024,$25,$200,Home Appliances,Medium,7
+P10023,Heater W,Supplier Y,WH1,60,30,In Transit,23-10-2024,29-10-2024,30-10-2024,$15,$50,Home Appliances,High,6
+P10024,Fan X,Supplier Z,WH2,200,150,Shipped,24-10-2024,30-10-2024,31-10-2024,$12,$40,Home Appliances,Low,5
+P10025,Humidifier Y,Supplier X,WH3,100,50,Delivered,25-10-2024,31-10-2024,01-11-2024,$18,$120,Home Appliances,Medium,6
+P10026,Water Filter Z,Supplier Y,WH1,250,100,In Transit,26-10-2024,01-11-2024,02-11-2024,$5,$25,Home Appliances,Low,7
+P10027,Smart Speaker AA,Supplier Z,WH2,500,250,Shipped,27-10-2024,02-11-2024,03-11-2024,$15,$100,Electronics,Medium,6
+P10028,Fitness Tracker BB,Supplier X,WH3,200,150,In Transit,28-10-2024,03-11-2024,04-11-2024,$10,$80,Electronics,High,7
+P10004,Smartwatch D,Supplier X,WH3,75,50,Shipped,04-10-2024,10-10-2024,09-10-2024,$10,$200,Electronics,High,6
+P10030,Electric Kettle DD,Supplier Z,WH2,50,30,Shipped,30-10-2024,05-11-2024,06-11-2024,$12,$40,Home Appliances,Medium,7
