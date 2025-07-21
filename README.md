@@ -51,7 +51,7 @@ Many businesses struggle with supply chain visibility. Delays, overstocking, and
 
 | Tool | Purpose |
 |------|---------|
-| **Excel/CSV** | Data source used |
+| **CSV** | Data source used |
 | **Power BI** | Dashboard design and visualization |
 | **Power Query Editor** | Data cleaning and modeling |
 | **DAX** | Used for calculations and KPI metrics |
