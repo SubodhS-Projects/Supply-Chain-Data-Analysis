@@ -42,7 +42,7 @@ Many businesses struggle with supply chain visibility. Delays, overstocking, and
 
 ### Steps to Explore
 1. Clone this repository or download it as ZIP
-2. Open `Supply Chain Data Analysis Dashboard.pbit` in Power BI Desktop
+2. Open `Supply Chain Data Analysis.pbit` in Power BI Desktop
 3. Explore each report section using slicers and filters
 
 ---
