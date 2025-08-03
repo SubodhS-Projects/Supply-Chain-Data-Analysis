@@ -1,6 +1,6 @@
 # 📦 Interactive Supply Chain Dashboard
 
-![Excel](https://img.shields.io/badge/Excel-Dashboard-brightgreen?style=for-the-badge&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Excel-Dashboard-brightgreen?style=for-the-badge&logo=microsoft-excel)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=databricks)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ---
