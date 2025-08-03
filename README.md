@@ -1,8 +1,9 @@
 # 📦 Interactive Supply Chain Dashboard
 
-![Power BI](https://img.shields.io/badge/Power BI-Dashboard-brightgreen?style=for-the-badge&logo=microsoft-Power BI)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge&logo=databricks)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 ---
 
 ## 🎯 What This Project Is About❓
