@@ -7,8 +7,11 @@ This Power BI dashboard is designed to help organizations **optimize their suppl
 
 The goal is to make it easy for supply chain managers, analysts, and operations teams to **identify bottlenecks, reduce costs, and improve efficiency**.
 
-> 🔗 **Created by [Subodh Shahare](https://www.linkedin.com/in/subodhshahare)**  
-> 🌐 [Visit My Portfolio](https://subodh-s.my.canva.site/home)
+---
+
+## 🔗 Author  
+👤 **By Subodh Shahare™**  
+🌐 [Portfolio Website](https://subodh-s.my.canva.site/home) | 💼 [LinkedIn](https://www.linkedin.com/in/subodhshahare) | 
 
 ---
 
